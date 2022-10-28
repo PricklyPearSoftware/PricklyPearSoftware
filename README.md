@@ -1,4 +1,4 @@
 - 👋 Hi, I’m caroline@PricklyPearSoftware
 - 👀 I’m interested in software to solve software development issues
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java, Perl and Rust
 - 💞️ I’m looking to collaborate on layout algorithms
